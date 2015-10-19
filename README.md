@@ -1,2 +1,2 @@
-# rail_fence_cipher
+# DeCipher
 implementation of the famous rail-fence-cipher
